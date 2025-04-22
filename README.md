@@ -7,7 +7,13 @@
 
 - ✨ **Sistema de recomendações** baseado em Machine Learning (Flask + scikit-learn)  
 - 🔒 **Autenticação** persistente com JWT  
-- 🎨 **UI responsiva** com Tailwind CSS  
-
+- 🎨 **UI responsiva** com Tailwind CSS
+  
+## Inspiração  
+Interface inspirada em plataformas modernas de streaming, com:  
+- Layout em grid responsivo  
+- Efeitos de hover e transições  
+- Integração frontend/backend
+    
 ## 📌 Nota Legal  
 Este projeto é **exclusivamente educacional**. Não utiliza dados, APIs ou assets protegidos de qualquer serviço comercial.
